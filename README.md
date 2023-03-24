@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ## 🗺️Web3 experience
 
-In 2021 I co-founded the web3 social platform 🔑[Linkkey](https://linkkey.io) with friends, in 2022 my friends and I built the social application-chain ♾️[Ulas](https://ulas.network) in the Cosmos ecosystem, and in 2023 I joined an established CEX as head of production and R&D to help build their Gamefi aggregation platform 🎮[GGSlayer](https://ggslayer.io).
+In 2021 I co-founded the web3 social platform (🔑[Linkkey](https://linkkey.io)) with friends, in 2022 my friends and I built the social application-chain (♾️[Ulas](https://ulas.network)) in the Cosmos ecosystem, and in 2023 I joined an established CEX as head of production and R&D to help build their Gamefi aggregation platform (🎮[GGSlayer](https://ggslayer.io)).
 
-Certainly, earlier (2020) I was working on the development and management of the storage blockchain 🎛️[mwfs](https://mw.run).
+Certainly, earlier (2020) I was working on the development and management of the storage blockchain (🎛️[mwfs](https://mw.run)).
