@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 👨‍💻Brief introduction
 
 - 🔭Linkkey Co-founder / Reflect Co-founder
-- 🔗Blockchain Developer
+- 🔗Blockchain Full-stack Developer
 - 🖥️Web3.0 Entrepreneur
 
 
@@ -33,4 +33,4 @@ In the second half of 2022 I joined the web3 recruitment platform (👔[Dejob](h
 
 In 2023 I joined an established CEX for product and R&D management to help build their Gamefi aggregation platform (🎮[GGSlayer](https://ggslayer.io)).
 
-Of course, earlier (2020) I was working on the development and management of a storage blockchain (🎛️[mwfs](https://www.sohu.com/a/430905346_100105055)).
+Of course, earlier (2019-2020) I was working on the development and management of a storage blockchain (🎛️[mwfs](https://www.sohu.com/a/430905346_100105055)).
