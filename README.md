@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻Brief introduction
 
-- 🔭Linkkey Co-funder / GGSlayer PM
+- 🔭Linkkey Co-founder / Reflect Co-founder
 - 🔗Blockchain Developer
 - 🖥️Web3.0 Entrepreneur
 
