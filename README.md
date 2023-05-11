@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ## 🗺️Web3 experience
 
-In 2021, my friends and I co-founded web3 social platform (🔑[Linkkey](https://linkkey.io)), I served as the head of product and R&D, we released Linkkey sub-product on Christmas day (⛓️[SNS domain](https:/ /sns.chat)), the SNS now has 10w+ registered users, which is the largest domain product in Polygon ecology, and we then released Linkkey-App to improve the crypto social circle scene, and the project is still running well today.
+In 2021, my friends and I co-founded web3 social platform (🔑[Linkkey](https://linkkey.io)), I served as the head of product and R&D, we released Linkkey sub-product on Christmas day (⛓️[SNS domain](https://sns.chat)), the SNS now has 10w+ registered users, which is the largest domain product in Polygon ecology, and we then released Linkkey-App to improve the crypto social circle scene, and the project is still running well today.
 
-In 2022 we established a social application chain in Cosmos ecosystem (♾️[Uras](https://ulas.network)), but the platform did not run much before it ended, on the one hand, the financing did not go well, and secondly, our product did not design a clear profit mechanism. The project was a failure.
+In 2022 we established a social application chain in Cosmos ecosystem (♾️[Ulas](https://ulas.network)), but the platform did not run much before it ended, on the one hand, the financing did not go well, and secondly, our product did not design a clear profit mechanism. The project was a failure.
 
 In the second half of 2022 I joined the web3 recruitment platform (👔[Dejob](https://dejob.top)) as a product lead (part-time), a non-profit blockchain hobby organization, we provide a free service for web3 talent matching in the Asia-Pacific region, and we have one of the largest talent matching platforms in the region We plan to build our platform for the long term.
 
