@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻Brief introduction
 
+- 🌎OPENPOWER R&D Director
 - 🔭Linkkey Co-founder / Reflect Co-founder
 - 🔗Blockchain Full-stack Developer
 - 🖥️Web3.0 Entrepreneur
