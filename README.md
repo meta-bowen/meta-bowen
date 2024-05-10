@@ -32,6 +32,6 @@ In 2022 we established a social application chain in Cosmos ecosystem (♾️[Ul
 
 In the second half of 2022 I joined the web3 recruitment platform (👔[Dejob](https://dejob.top)) as a product lead (part-time), a non-profit blockchain hobby organization, we provide a free service for web3 talent matching in the Asia-Pacific region, and we have one of the largest talent matching platforms in the region We plan to build our platform for the long term.
 
-In 2023 I joined an established CEX for product and R&D management to help build their Gamefi aggregation platform (🎮[GGSlayer](https://ggslayer.io)).
+In 2023 I joined an established CEX (🚀[Digifinex](https://www.digifinex.io/en-ww/)) for product and R&D management to help build their Gamefi aggregation platform (🎮[GGSlayer](https://ggslayer.io)).
 
 Of course, earlier (2019-2020) I was working on the development and management of a storage blockchain (🎛️[mwfs](https://www.sohu.com/a/430905346_100105055)).
